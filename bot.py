@@ -11,7 +11,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Токен бота (ЗАМЕНИТЕ НА СВОЙ!)
-TOKEN = "ВАШ_ТОКЕН_ТУТ"
+TOKEN = "8560106777:AAGKKuCJ6RUNZcqm10CQ2dLPBjSe1LoiTRI"
 
 # Этапы разговора
 QUESTION, ANSWER = range(2)
